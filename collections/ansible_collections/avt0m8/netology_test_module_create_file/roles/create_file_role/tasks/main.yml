@@ -1,0 +1,6 @@
+---
+# tasks file for create_file_role
+  - name: Create file module test
+    avt0m8.netology_test_module_create_file.create_file:
+      path: "{{ path }}"
+      content: "{{ content }}"

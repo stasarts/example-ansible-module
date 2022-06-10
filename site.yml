@@ -1,0 +1,6 @@
+---
+- hosts: all
+  collections:
+    - avt0m8.netology_test_module_create_file
+  roles:
+    - create_file_role

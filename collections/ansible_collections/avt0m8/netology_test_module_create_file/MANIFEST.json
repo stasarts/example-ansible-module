@@ -1,0 +1,30 @@
+{
+ "collection_info": {
+  "namespace": "avt0m8",
+  "name": "netology_test_module_create_file",
+  "version": "1.0.0",
+  "authors": [
+   "Stas Arts"
+  ],
+  "readme": "README.md",
+  "tags": [],
+  "description": "netology test module create_file",
+  "license": [
+   "GPL-2.0-or-later"
+  ],
+  "license_file": null,
+  "dependencies": {},
+  "repository": "http://example.com/repository",
+  "documentation": "http://docs.example.com",
+  "homepage": "http://example.com",
+  "issues": "http://example.com/issue/tracker"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "f9c4718f1725c4757aa24cd105ad3d1c0b05e036fbcc0adfd90fcb86f7d2fcd0",
+  "format": 1
+ },
+ "format": 1
+}

@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Stas Arts
+  role_name: create_file_role
+  namespace: avt0m8
+  description: Test File Creation
+  company: avt0m8
+
+  license: BSD-3-Clause
+
+  min_ansible_version: 2.1
+
+  galaxy_tags: [create_file_role]
+
+dependencies: []
